@@ -12,5 +12,5 @@ class Rectangle: public Shap
 		{
 			return this -> width * this -> height;
 		}
-}
+};
 #endif
